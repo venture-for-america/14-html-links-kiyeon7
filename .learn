@@ -1,0 +1,10 @@
+languages:
+  - html
+tags:
+  - links
+  - paths
+type:
+  - lecture
+resources: 3
+notifications:
+  password_soft_wall: true
